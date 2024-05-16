@@ -1,3 +1,3 @@
-# Python_Networking
-Practicing Pythong networking concepts
-with Udemy course
+# Python_automation
+Practicing Python automation concepts
+
